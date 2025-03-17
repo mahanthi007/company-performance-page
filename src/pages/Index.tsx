@@ -1,4 +1,3 @@
-
 import React from 'react';
 import StockOverview from '@/components/StockOverview';
 import StockChart from '@/components/StockChart';
@@ -142,7 +141,7 @@ const newsItems = [
     timestamp: '2 hours ago',
     url: '#',
     thumbnail: 'https://images.unsplash.com/photo-1592002616527-0d6b55070394?q=80&w=800&h=600',
-    summary: 'Apple's latest iPhone features breakthrough camera technology that promises to revolutionize mobile photography with computational imaging capabilities.'
+    summary: 'Apple\'s latest iPhone features breakthrough camera technology that promises to revolutionize mobile photography with computational imaging capabilities.'
   },
   {
     title: 'Apple Reports Record Fourth Quarter Results',
@@ -153,12 +152,12 @@ const newsItems = [
     summary: 'Apple announced financial results for its fiscal 2023 fourth quarter, with quarterly revenue of $89.5 billion, up 8% year over year.'
   },
   {
-    title: 'Apple's AR Headset Expected to Launch in Early 2024',
+    title: 'Apple\'s AR Headset Expected to Launch in Early 2024',
     source: 'Bloomberg',
     timestamp: '2 days ago',
     url: '#',
     thumbnail: 'https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?q=80&w=800&h=600',
-    summary: 'Sources familiar with the matter say Apple's long-awaited augmented reality headset is now expected to launch in Q1 2024 after several delays.'
+    summary: 'Sources familiar with the matter say Apple\'s long-awaited augmented reality headset is now expected to launch in Q1 2024 after several delays.'
   },
   {
     title: 'Apple Expands AI Capabilities with New Acquisition',
@@ -169,11 +168,11 @@ const newsItems = [
     summary: 'Apple has acquired an AI startup specializing in natural language processing to enhance Siri and other AI features across its product lineup.'
   },
   {
-    title: 'Apple's Services Revenue Grows 21% Year-Over-Year',
+    title: 'Apple\'s Services Revenue Grows 21% Year-Over-Year',
     source: 'Financial Times',
     timestamp: '4 days ago',
     url: '#',
-    summary: 'Apple's services segment, which includes App Store, Apple Music, and Apple TV+, continues to show strong growth as the company diversifies beyond hardware.'
+    summary: 'Apple\'s services segment, which includes App Store, Apple Music, and Apple TV+, continues to show strong growth as the company diversifies beyond hardware.'
   }
 ];
 
